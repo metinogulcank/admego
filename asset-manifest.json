@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/admego/static/css/main.6a7a0675.css",
+    "main.js": "/admego/static/js/main.de7c296e.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/admego/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/admego/index.html",
+    "main.6a7a0675.css.map": "/admego/static/css/main.6a7a0675.css.map",
+    "main.de7c296e.js.map": "/admego/static/js/main.de7c296e.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/admego/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a7a0675.css",
+    "static/js/main.de7c296e.js"
+  ]
+}
